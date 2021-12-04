@@ -77,7 +77,7 @@ function changeTitle(title) {
 
 function proCreate() {	
 	for (var i = 0; i < 5; i++) {
-		openWindow('https://pokemonrise-unblocked.github.io/play/');
+		openWindow('https://captaincookie15.github.io/play/');
 	}
 }
 
